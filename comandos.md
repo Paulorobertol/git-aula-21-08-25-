@@ -17,8 +17,10 @@ pra saber se esta certo programa codigo que eu fiz
 ## git add 
 pra adiocionar os comandos usando git add 
 git push envia os comits do pc  para o github
+
 ...bash
 pull baixa todas as atualizaçoes que o repositorio tem no github e nao esta no seu pc.
 ...bash
 git pull 
 ...
+
